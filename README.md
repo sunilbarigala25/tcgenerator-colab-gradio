@@ -1,1 +1,0 @@
-# tcgenerator-colab-gradio
